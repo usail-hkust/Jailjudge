@@ -10,8 +10,8 @@ Additionally, we introduce JailBoost, an attacker-agnostic attack enhancer, and 
 
 ## 💡Framework
 
-![](https://github.com/usail-hkust/Jailjudge/blob/main/Figures/framewrok.pdf)
 
+![JAILJUDGE Benchmark and multi-agent Judge Framework](Figures/framewrok.pdf)
 
 The JAILJUDGE Benchmark encompasses a wide variety of complex jailbreak scenarios, including multilingual and adversarial prompts, targeting diverse LLM responses for robust safety evaluation.
 
