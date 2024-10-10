@@ -9,9 +9,9 @@ Although significant research efforts have been dedicated to enhancing the safet
 Additionally, we introduce JailBoost, an attacker-agnostic attack enhancer, and GuardShield, a safety moderation defense method, both based on JAILJUDGE Guard. Comprehensive experiments demonstrate the superiority of our JAILJUDGE benchmark and jailbreak judge methods. Our jailbreak judge methods (JailJudge MultiAgent and JAILJUDGE Guard) achieve SOTA performance in closed-source models (e.g., GPT-4) and safety moderation models (e.g., Llama-Guard and ShieldGemma, etc.), across a broad range of complex behaviors (e.g., JAILJUDGE benchmark, etc.) to zero-shot scenarios (e.g., other open data, etc.). Importantly, JailBoost and GuardShield, based on JAILJUDGE Guard, can enhance downstream tasks in jailbreak attacks and defenses under zero-shot settings with significant improvement (e.g., JailBoost can increase the average performance  by approximately 29.24\%, while GuardShield can reduce the average defense ASR from 40.46\% to 0.15\%).
 
 ## 💡Framework
-<div align="center">
-  <img src="https://github.com/usail-hkust/Jailjudge/blob/main/Figures/framewrok.pdf" alt="Logo" width="800">
-</div>
+
+![](https://github.com/usail-hkust/Jailjudge/blob/main/Figures/framewrok.pdf)
+
 
 The JAILJUDGE Benchmark encompasses a wide variety of complex jailbreak scenarios, including multilingual and adversarial prompts, targeting diverse LLM responses for robust safety evaluation.
 
