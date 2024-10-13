@@ -11,7 +11,7 @@ model_name2model_path ={
     "llamaguard3": "meta-llama/Llama-Guard-3-8B",
     "shieldgemma2b": "google/shieldgemma-2b",
     "shieldgemma9b": "google/shieldgemma-9b",
-    "ours": "ICLR-Anonymous/JAILJUDGE-guard",
+    "ours": "usail-hkust/JailJudge-guard",
 
 }
 
