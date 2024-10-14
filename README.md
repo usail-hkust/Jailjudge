@@ -232,8 +232,8 @@ python -u main.py \
 ## 5. Acknowledgement
 In the implementation of this project, we have referred to the code from the following repositories:
 - [JailTrickBench][R-JailTrickBench] (NeurIPS 2024)
-- [Llama-Guard3][R-Llama-Guard3]
-- [ShieldGemma][R-ShieldGemma]
+- [Llama-Guard3][R-Llama-Guard3] (Meta)
+- [ShieldGemma][R-ShieldGemma] (Google)
 
 [R-JailTrickBench]: https://github.com/usail-hkust/Bag_of_Tricks_for_LLM_Jailbreaking
 [R-Llama-Guard3]: https://huggingface.co/meta-llama/Llama-Guard-3-8B
