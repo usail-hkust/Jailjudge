@@ -227,3 +227,14 @@ python -u main.py \
 `jailbreak_judge_method`: You can set the `jailbreak_judge_method` to `llamaguard1`, `llamaguard2`, `llamaguard3`, `shieldgemma2b`, `shieldgemma9b`, `ours` to run the corresponding method.
 
 **Note**: As some baselines require a long time to run, we provide a feature to run the experiment in parallel. You can set the `--data_split` and `--data_split_total_num` to run the experiment in parallel. For example, you can set `--data_split_total_num 2` and `--data_split_idx 0` in the script to run the first half of the data, and set `--data_split_total_num 2` and `--data_split_idx 1` in the script to run the second half of the data. After all data is finished, the program will automatically merge the results.
+
+
+## 5. Acknowledgement
+In the implementation of this project, we have referred to the code from the following repositories:
+- [JailTrickBench][R-JailTrickBench] (NeurIPS 2024)
+- [Llama-Guard3][R-Llama-Guard3]
+- [ShieldGemma][R-ShieldGemma]
+
+[R-JailTrickBench]: https://github.com/usail-hkust/Bag_of_Tricks_for_LLM_Jailbreaking
+[R-Llama-Guard3]: https://huggingface.co/meta-llama/Llama-Guard-3-8B
+[R-ShieldGemma]: https://huggingface.co/google/shieldgemma-9b
