@@ -27,7 +27,7 @@ in-the-wild, and multi-language scenarios, etc.) along with high-quality human-
 annotated test datasets
 
 ## 👉 Paper
-For more details, please refer to our paper [JAILJUDGE](link).
+For more details, please refer to our paper [JAILJUDGE](https://arxiv.org/abs/2410.12855).
 
 
 
