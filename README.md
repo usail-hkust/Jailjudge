@@ -238,3 +238,17 @@ In the implementation of this project, we have referred to the code from the fol
 [R-JailTrickBench]: https://github.com/usail-hkust/Bag_of_Tricks_for_LLM_Jailbreaking
 [R-Llama-Guard3]: https://huggingface.co/meta-llama/Llama-Guard-3-8B
 [R-ShieldGemma]: https://huggingface.co/google/shieldgemma-9b
+
+## 6. Citation
+If you find this project helpful, please consider citing our paper:
+```
+@misc{liu2024jailjudgecomprehensivejailbreakjudge,
+      title={JAILJUDGE: A Comprehensive Jailbreak Judge Benchmark with Multi-Agent Enhanced Explanation Evaluation Framework}, 
+      author={Fan Liu and Yue Feng and Zhao Xu and Lixin Su and Xinyu Ma and Dawei Yin and Hao Liu},
+      year={2024},
+      eprint={2410.12855},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.12855}, 
+}
+```
