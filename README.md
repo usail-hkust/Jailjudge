@@ -29,8 +29,8 @@ annotated test datasets
 ## 👉 Paper
 For more details, please refer to our paper [JAILJUDGE](https://arxiv.org/abs/2410.12855).
 
-
-
+This is the difference between our JAILJUDGE and the existing models like Llama-Guard3, ShieldGemma, etc.
+![Figure1](docs/static/images/prob_dif_00.png)
 
 ## 1 Installation
 
