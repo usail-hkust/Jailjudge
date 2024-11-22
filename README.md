@@ -1,3 +1,13 @@
+<p align="center">
+
+![Testing Status](https://img.shields.io/badge/docs-in_progress-green)
+![Testing Status](https://img.shields.io/badge/pypi_package-in_progress-green)
+![Testing Status](https://img.shields.io/badge/license-MIT-blue)
+![Stars](https://img.shields.io/github/stars/usail-hkust/Jailjudge)
+![Visits Badge](https://badges.pufler.dev/visits/usail-hkust/Jailjudge)
+
+</p>
+
 
 # JAILJUDGE: A Comprehensive Jailbreak Judge Benchmark with Multi-Agent Enhanced Explanation Evaluation Framework
 
