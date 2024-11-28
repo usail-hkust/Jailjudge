@@ -5,6 +5,8 @@
 ![Testing Status](https://img.shields.io/badge/license-MIT-blue)
 ![Stars](https://img.shields.io/github/stars/usail-hkust/Jailjudge)
 ![GitHub visitors](https://img.shields.io/github/last-commit/usail-hkust/Jailjudge)
+![Visitor Badge](https://badgen.net/github/visitors/usail-hkust/Jailjudge)
+
 
 
 
