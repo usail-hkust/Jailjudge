@@ -4,7 +4,8 @@
 ![Testing Status](https://img.shields.io/badge/pypi_package-in_progress-green)
 ![Testing Status](https://img.shields.io/badge/license-MIT-blue)
 ![Stars](https://img.shields.io/github/stars/usail-hkust/Jailjudge)
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=usail-hkust.Jailjudge)
+![GitHub visitors](https://img.shields.io/github/last-commit/usail-hkust/Jailjudge)
+
 
 
 
