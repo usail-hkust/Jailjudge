@@ -4,8 +4,8 @@
 ![Testing Status](https://img.shields.io/badge/pypi_package-in_progress-green)
 ![Testing Status](https://img.shields.io/badge/license-MIT-blue)
 ![Stars](https://img.shields.io/github/stars/usail-hkust/Jailjudge)
-![GitHub visitors](https://img.shields.io/github/last-commit/usail-hkust/Jailjudge)
-![Model Downloads](https://img.shields.io/huggingface/dt/usail-hkust/JailJudge-guard)
+![Downloads](https://img.shields.io/huggingface/downloads/usail-hkust/JailJudge-guard)
+
 
 
 
